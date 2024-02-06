@@ -76,7 +76,3 @@ Contributions are welcome! Feel free to open an issue for feedback and suggestio
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-
-Bu README dosyası, projenin anahtar noktalarını vurgulayarak kurulum ve kullanım adımlarını basitleştirir. Ayrıca, kullanıcıların kişisel ayarları nasıl yapacaklarını anlamalarına yardımcı olur.
