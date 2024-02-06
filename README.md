@@ -4,7 +4,7 @@ SocketBridge is a Python project that facilitates communication between devices 
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 The project enables executing commands and transferring files between different devices. Below are the details of each script:
 
@@ -28,7 +28,7 @@ Used for listening to commands and executing them on the local device.
 
 ---
 
-## Installation
+## 🔧 Installation
 
 To use SocketBridge, follow these steps:
 
@@ -54,21 +54,29 @@ To use SocketBridge, follow these steps:
 
 ---
 
-## Usage
+## 🛠️ Usage
 
 - For `SocketLongDistance`, specify the IP address and port of the remote device.
 - For `SocketListener`, specify the IP address and port to listen on.
 
 ---
 
-## Note
+## 💡 Note
 
 Remember to replace `<IP_ADDRESS>` and `<PORT>` with your own values.
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue for feedback and suggestions or submit a pull request directly.
 
 ---
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+```
+
+Bu README dosyası, projenin anahtar noktalarını vurgulayarak kurulum ve kullanım adımlarını basitleştirir. Ayrıca, kullanıcıların kişisel ayarları nasıl yapacaklarını anlamalarına yardımcı olur.
