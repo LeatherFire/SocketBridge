@@ -1,4 +1,3 @@
-```markdown
 # SocketBridge
 
 SocketBridge is a Python project that facilitates communication between devices over networks. It consists of two main scripts: `SocketLongDistance` and `SocketListener`.
